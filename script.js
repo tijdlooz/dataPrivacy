@@ -68,7 +68,7 @@ if(fileName == "index.html"){
 
  //info
  plaatje.src = "images/icon_data.png";
- kop.innerHTML = "Denk je na over wat je online deel?";
+ kop.innerHTML = "Denk je na over wat je online deelt?";
  uitleg.innerHTML = "Wat deel je vaak online, ben je actief op sociale media? Vul hieronder het antwoord in, druk vervolgends op volgende om door te gaan.";
  
  //input field
